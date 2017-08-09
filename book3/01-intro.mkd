@@ -2,22 +2,21 @@
 % Exploring Data Using Python 3
 % Charles R. Severance
 
-Why should you learn to write programs?
+Зачем учиться писать программы?
 =======================================
 
-Writing programs (or programming) is a very creative and rewarding
-activity. You can write programs for many reasons, ranging from making
+Написание программ (программирование) - творческая и стоящая того
+деятельность. Писать программы можно по разным причинам: ranging from making
 your living to solving a difficult data analysis problem to having fun
-to helping someone else solve a problem. This book assumes that
-*everyone* needs to know how to program, and that once you know how to
-program you will figure out what you want to do with your newfound
-skills.
+to helping someone else solve a problem. Эта книга предполагает, что
+*всем* нужно знать, как программировать, и когда вы узнаете, как
+программировать, вы поймёте, что вам делать с приобретёнными навыками.
 
-We are surrounded in our daily lives with computers ranging from laptops
-to cell phones. We can think of these computers as our "personal
-assistants" who can take care of many things on our behalf. The hardware
-in our current-day computers is essentially built to continuously ask us
-the question, "What would you like me to do next?"
+В повседневной жизни мы окружены компьютерами, начиная с ноутбуков и
+заканчивая сотовыми телефонами. Можно думать о них как о "личных
+помощниках", которые заботятся о множестве вещей. Оборудование
+современных компьютеров устроено так, чтобы беспрерывно спрашивать нас:
+"Что ещё сделать для вас?"
 
 ![Personal Digital Assistant](height=1.0in@../images/pda)
 
