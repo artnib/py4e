@@ -6,9 +6,9 @@
 =======================================
 
 Написание программ (программирование) - творческая и стоящая того
-деятельность. Писать программы можно по разным причинам: ranging from making
-your living to solving a difficult data analysis problem to having fun
-to helping someone else solve a problem. Эта книга предполагает, что
+деятельность. Писать программы можно по разным причинам: ради заработка,
+для решения различных задач анализа данных, ради удовольствия,
+для оказания помощи в решении чьих-то проблем. Эта книга предполагает, что
 *всем* нужно знать, как программировать, и когда вы узнаете, как
 программировать, вы поймёте, что вам делать с приобретёнными навыками.
 
@@ -20,42 +20,40 @@ to helping someone else solve a problem. Эта книга предполага�
 
 ![Personal Digital Assistant](height=1.0in@../images/pda)
 
-Programmers add an operating system and a set of applications to the
-hardware and we end up with a Personal Digital Assistant that is quite
-helpful and capable of helping us do many different things.
+Программисты дополняют оборудование операционной системой и набором
+приложений. В результате мы получаем персонального цифрового помощника,
+который способен помочь нам выполнять много разных задач.
 
-Our computers are fast and have vast amounts of memory and could be very
-helpful to us if we only knew the language to speak to explain to the
-computer what we would like it to "do next". If we knew this language,
-we could tell the computer to do tasks on our behalf that were
-repetitive. Interestingly, the kinds of things computers can do best are
-often the kinds of things that we humans find boring and mind-numbing.
+Наши компьютеры быстры и обладают огромными объёмами памяти. Они
+могли бы оказаться очень полезными, если бы только мы знали язык,
+который позволит объяснить компьютеру, что ему делать дальше. Если бы
+мы знали этот язык, мы могли бы поручить компьютеру выполнение
+повторяющихся задач. Интересно то, компьютеры лучше всего справляются
+с теми делами, которые люди находят надоедливыми и утомительными.
 
-For example, look at the first three paragraphs of this chapter and tell
-me the most commonly used word and how many times the word is used.
-While you were able to read and understand the words in a few seconds,
-counting them is almost painful because it is not the kind of problem
-that human minds are designed to solve. For a computer the opposite is
-true, reading and understanding text from a piece of paper is hard for a
-computer to do but counting the words and telling you how many times the
-most used word was used is very easy for the computer:
+Например, найдите в первых трёх абзацах этой главы слово, которое
+встречается чаще всего, и скажите, сколько раз оно используется.
+Хотя мы способны прочитать и понять слова за несколько секунд,
+их подсчёт утомителен, потому что эта не та задача, для решения
+которой приспособлен человеческий ум. Для компьютера, наоборот,
+чтение и понимание текста с листа бумаги затруднительно, но
+подсчёт слов и определение самого распространённого слова
+не составляют проблемы:
 
 ~~~~ {.python}
     python words.py
-    Enter file:words.txt
+    Укажите файл: words.txt
     to 16
 ~~~~
 
-Our "personal information analysis assistant" quickly told us that the
-word "to" was used sixteen times in the first three paragraphs of this
-chapter.
+Наш "персональный помощник по анализу информации" быстро сказал нам,
+что слово "to" использовалось 16 раз в первых трёх абзацах этой главы.
 
-This very fact that computers are good at things that humans are not is
-why you need to become skilled at talking "computer language". Once you
-learn this new language, you can delegate mundane tasks to your partner
-(the computer), leaving more time for you to do the things that you are
-uniquely suited for. You bring creativity, intuition, and inventiveness
-to this partnership.
+Именно потому, что компьютеры успешны в тех делах, в которых люди
+не блещут, вам нужно приобрести навыки разговора на "языке компьютера".
+Как только вы освоите этот новый язык, вы сможете поручать mundane задачи
+своему помощнику (компьютеру), освобождая время для дел, с которыми вы
+справляетесь лучше всего. В этом сотрудничестве вы приносите творчество, интуицию, а также изобретательность.
 
 Creativity and motivation
 -------------------------
