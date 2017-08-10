@@ -3,7 +3,7 @@
 % Charles R. Severance
 
 Зачем учиться писать программы?
-=======================================
+===============================
 
 Написание программ (программирование) - творческая и стоящая того
 деятельность. Писать программы можно по разным причинам: ради заработка,
@@ -55,31 +55,30 @@
 своему помощнику (компьютеру), освобождая время для дел, с которыми вы
 справляетесь лучше всего. В этом сотрудничестве вы приносите творчество, интуицию, а также изобретательность.
 
-Creativity and motivation
--------------------------
+Творчество и мотивация
+----------------------
 
-While this book is not intended for professional programmers,
-professional programming can be a very rewarding job both financially
-and personally. Building useful, elegant, and clever programs for others
-to use is a very creative activity. Your computer or Personal Digital
-Assistant (PDA) usually contains many different programs from many
-different groups of programmers, each competing for your attention and
-interest. They try their best to meet your needs and give you a great
-user experience in the process. In some situations, when you choose a
-piece of software, the programmers are directly compensated because of
-your choice.
+Хотя эта книга не предназначена для профессиональных программистов,
+профессиональное программирование может быть очень стоящей работой
+в личном и финансовом планах. Создание полезных, изящных и умных программ
+для других пользователей - весьма творческая деятельность. Ваш компьютер,
+или персональный цифровой помощник, обычно содержит множество различных
+программ от разных групп программистов, которые борются за ваши внимание
+и заинтересованность. Они изо всех сил стараются удовлетворить ваши
+потребности и обеспечить положительный опыт работы. Ваш выбор определённой
+программы вознаграждает её создателей.
 
-If we think of programs as the creative output of groups of programmers,
-perhaps the following figure is a more sensible version of our PDA:
+Если рассматривать программы как творчество группы программистов, возможно,
+следующий рисунок представляет более осмысленную версию нашего помощника:
 
 ![Programmers Talking to You](height=1.0in@../images/pda2)
 
-For now, our primary motivation is not to make money or please end
-users, but instead for us to be more productive in handling the data and
-information that we will encounter in our lives. When you first start,
-you will be both the programmer and the end user of your programs. As
-you gain skill as a programmer and programming feels more creative to
-you, your thoughts may turn toward developing programs for others.
+Сейчас наша первоначальная мотивация заключается не в заработке или
+удовлетворении конечных пользователей, а в личном повышении
+производительности при обработке информации, которая всречается в нашей
+жизни. Вначале вы будете и программистом, и пользователем своих программ.
+По мере приобретения навыков программиста и осознанием творческой стороны
+программирования вы можете задуматься о разработке программ для других людей.
 
 Computer hardware architecture
 ------------------------------
